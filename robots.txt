@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ponponkonkon4-rgb.github.io/amami-infrastructure/sitemap.xml
