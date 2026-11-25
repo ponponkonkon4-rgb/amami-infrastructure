@@ -1,0 +1,8 @@
+# オリバーズカフェ
+
+季節のパフェが看板の、奄美市名瀬長浜町のカフェ。クリスマスケーキ2026の予約受付中（締切12月14日、受取12月23日〜25日、現金のみ）。ランチ11:00〜14:45（L.O.）15:30閉店。
+
+- 住所：〒894-0036 鹿児島県奄美市名瀬長浜町14-7 1階
+- 電話：0997-69-3730
+- Instagram：https://www.instagram.com/oriverscafe/
+- サイト：https://ponponkonkon4-rgb.github.io/amami-infrastructure/samples/oriverscafe/

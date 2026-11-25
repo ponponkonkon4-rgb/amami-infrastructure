@@ -1,0 +1,8 @@
+# 島の居酒屋 むちゃかな
+
+奄美大島・屋仁川の老舗居酒屋。島料理と60種類以上の黒糖焼酎。コース4,500円〜6,500円（税込、5〜22名様）、単品2時間飲み放題2,680円。営業時間17:00〜23:00、水曜定休、100席・全席禁煙。
+
+- 住所：〒894-0031 鹿児島県奄美市名瀬金久町4-18 ASJビル1F
+- 電話：0997-52-8505
+- Instagram：https://www.instagram.com/muchakana/
+- サイト：https://ponponkonkon4-rgb.github.io/amami-infrastructure/samples/muchakana/
